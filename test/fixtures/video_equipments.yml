@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  equipment_type: MyString
+  model: MyString
+  serial_number: MyString
+  current_condition: MyString
+  maintenance_history: MyText
+  location: MyString
+  availability_status: MyString
+  rental_availability: false
+
+two:
+  name: MyString
+  equipment_type: MyString
+  model: MyString
+  serial_number: MyString
+  current_condition: MyString
+  maintenance_history: MyText
+  location: MyString
+  availability_status: MyString
+  rental_availability: false
